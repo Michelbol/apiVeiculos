@@ -1,0 +1,19 @@
+Client ID: 1
+Client Secret: GLSYari12FWFyQkQnDZwVa3daFDJxOrVkVin23by
+Password grant client created successfully.
+Client ID: 2
+Client Secret: Lccrv6yY0qwLRwkxcKpTHcJijPr7TuZlL1clWdP9
+//=======Postman=====//
+Client ID: 3
+Client Secret: o1wcUqmqFsmLxt9d7hWlgvVMZFOhRAogBBM2UyuN
+//===================//
+Client ID: 4
+Client Secret: F0cy26pUgTCk2oIuXUj4nJczwveiXxFNFvdtlzyU
+Password grant client created successfully.
+Client ID: 5
+Client Secret: gJx1bdDAXnQCDa6eTNDnNK2fGWTr5OWa2brFSfmQ
+Client ID: 6
+Client Secret: EHYu471fAXaU11t2bkbdrIJq7LkHp90Ai5ZC7qfs
+Password grant client created successfully.
+Client ID: 7
+Client Secret: krcL4cM8AVQOiSLWHbajUKmjhOCf24cClUeHDSOu
